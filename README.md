@@ -2,7 +2,6 @@
 
 ## Powered by ElectronJS and the YouTube-DL library.
 
-##
 
 ## How to use
 Assuming you have downloaded SaveMyVids, this is a guide on how to use it.
