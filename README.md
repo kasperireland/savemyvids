@@ -1,5 +1,4 @@
 # Video Downloader (SaveMyVids)
-
 ## Powered by ElectronJS and the YouTube-DL library.
 
 
