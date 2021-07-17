@@ -22,7 +22,7 @@ npm install (or) npm i
 npm start
 ```
 
-Then paste a URL into the Video Url input, can either be a single video or a playlist, it should autopopulate the Title at which point you can change the title or the given save directory.
+Then paste a URL into the Video URL/Link input aka textbox, it can either be a single video or a playlist, after pasting the URL and clicking the blue "Paste" button, it should automatically populate the Title Field at which point you can change the title or the given directory that the application will save downloaded videos to.
 
 ## Disclaimer
 
