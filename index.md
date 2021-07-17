@@ -8,7 +8,7 @@ SaveMyVids maintained by Kasper of Swivro. SaveMyVids is based off of Video Down
 ![Image of UI](https://i.imgur.com/jS6mPyw.png)
 
 # Download
-[Click here to download the .zip file](https://github.com/kasperireland/savemyvids/archive/refs/tags/0.00.zip)
+[Click here to download the .zip file (0.00 release)](https://github.com/kasperireland/savemyvids/archive/refs/tags/0.00.zip)
 
 ## How to use
 Assuming you have downloaded SaveMyVids, this is a guide on how to use it.
